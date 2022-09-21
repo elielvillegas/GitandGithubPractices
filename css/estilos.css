@@ -43,3 +43,10 @@ body
  {
      padding: 1em;
  }
+
+ #footer
+ {
+     color: white;
+     text-align: center;
+     background-color: violet;
+ }

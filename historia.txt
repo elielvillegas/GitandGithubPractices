@@ -1,1 +1,3 @@
-Esto es una prueba para manejar el historial de versiones
+Esto es un ejercicio para manejar el historial de versiones, y 
+
+la primera actividad del curso.
